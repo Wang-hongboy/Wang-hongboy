@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BobHooo from China.
 - 👀 I’m interested in code and system.
 - 🌱 I’m currently learning C++ and Git.
-- 💞️ I’m looking to collaborate on Robot control of system design
+- 💞️ I’m looking to collaborate on design of robot control system 
 - 📫 reach me on :2631682265@qq.com
 
 <!---
